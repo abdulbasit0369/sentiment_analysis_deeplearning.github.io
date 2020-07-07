@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Sentiment analysis of covid19 tweets
 
 You can use the [editor on GitHub](https://github.com/Abdul-Basit-mscs19003/Abdul-Basit-mscs19003.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
