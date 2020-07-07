@@ -4,16 +4,16 @@ Covid19, since its inception, has had a huge impact on people's life. Since diff
 
 ## Dataset Analysis
 
-![Image](https://github.com/Abdul-Basit-mscs19003/Abdul-Basit-mscs19003.github.io/blob/master/covid-tweets/wordclouds.png)
+![Image](covid-tweets/wordclouds.png)
 
 ## Countrywise and Datewise analysis
 
-![Image](https://github.com/Abdul-Basit-mscs19003/Abdul-Basit-mscs19003.github.io/blob/master/covid-tweets/results3.png)
+![Image](covid-tweets/results3.png)
 
 ## Results
 
-![Image](https://github.com/Abdul-Basit-mscs19003/Abdul-Basit-mscs19003.github.io/blob/master/covid-tweets/results1.png)
+![Image](covid-tweets/results1.png)
 
 ## Demo
 
-![Image](https://github.com/Abdul-Basit-mscs19003/Abdul-Basit-mscs19003.github.io/blob/master/covid-tweets/results2.png)
+![Image](covid-tweets/results2.png)
