@@ -1,10 +1,17 @@
 ## Group Members:
+
 Project for Deep Learning Spring 2020 at Information Technology University Lahore Pakistan
+
 Group Number : G2H
+
 Abdul Basit     (abdul.basit@itu.edu.pk)
+
 Obaid           (mscs19001@itu.edu.pk)
+
 M. Shahryr Khan (mscs19002@itu.edu.pk)
+
 Hadi Mustafa    (mscs19004@itu.edu.pk)
+
 Usama Irfan     (mscs19008@itu.edu.pk)
 
 Supervised By: Dr. Mohsen Ali
