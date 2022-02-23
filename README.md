@@ -1,6 +1,6 @@
 ## Group Members:
 
-Project for Deep Learning Spring 2020 at Information Technology University Lahore Pakistan
+Project for Deep Learning
 
 Group Number : G2H
 
